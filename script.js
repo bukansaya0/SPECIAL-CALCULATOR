@@ -17,7 +17,7 @@ function clearDisplay() {
 
 function calculate() {
     const display = document.getElementById('display');
-    display.innerText = "I LOVE YOU BEBEE❤️";
+    display.innerText = "I LOVE YOU❤️";
     document.getElementById('message').style.display = 'block'; // Menampilkan pesan
 }
 
